@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='../../Definition/Common_Header.xsl'?>
+<TimingReportHeader><Header><McName>McName</McName><JobName>JobName</JobName><JobRevision>JobRevision</JobRevision><JobComment>JobComment</JobComment><BoardSide>BoardSide</BoardSide><JobAuthor>JobAuthor</JobAuthor><RepDate>RepDate</RepDate><RepTime>RepTime</RepTime></Header><Header><McName>M6x6</McName><JobName>P70664A_B_MASTER_JIGU</JobName><JobRevision>REV4</JobRevision><JobComment></JobComment><BoardSide>BOTTOM</BoardSide><JobAuthor></JobAuthor><RepDate>2020/03/06</RepDate><RepTime>1:53:00</RepTime></Header></TimingReportHeader>
